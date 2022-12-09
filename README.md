@@ -75,9 +75,6 @@ Clone this repository to your desired folder:
 ```sh
   git clone https://github.com/asifaminisonline/ES6-Modules.git
 ```
-### live demo
-
-https://asifaminisonline.github.io/to-do-list-/dist/
 
 ### Install
 
